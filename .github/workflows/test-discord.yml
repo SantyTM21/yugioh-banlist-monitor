@@ -1,0 +1,25 @@
+name: Probar Discord
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test-discord:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Enviar mensaje de prueba
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: |
+          if [ -z "$DISCORD_WEBHOOK_URL" ]; then
+            echo "ERROR: No existe el secret DISCORD_WEBHOOK_URL"
+            exit 1
+          fi
+
+          curl --fail-with-body \
+            -H "Content-Type: application/json" \
+            -d '{"content":"✅ **Prueba correcta**\n\nEl monitor de Banlist de Yu-Gi-Oh! está conectado correctamente a Discord."}' \
+            "$DISCORD_WEBHOOK_URL"
+
+          echo "Mensaje enviado correctamente."

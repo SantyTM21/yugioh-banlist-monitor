@@ -1,0 +1,54 @@
+name: Monitor Yu-Gi-Oh Banlist
+
+on:
+  workflow_dispatch:
+  schedule:
+    # GitHub Actions usa UTC. Se ejecuta aproximadamente cada 15 minutos.
+    - cron: "*/15 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: yugioh-banlist-monitor
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Instalar dependencias
+        run: pip install -r requirements-dev.txt
+
+      - name: Ejecutar pruebas
+        run: pytest -q
+
+      - name: Revisar lista oficial
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: python monitor.py
+
+      - name: Guardar nueva versión en el repositorio
+        run: |
+          if git diff --quiet -- data/; then
+            echo "No hay cambios que guardar."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git commit -m "chore: actualizar snapshot de banlist [skip ci]"
+          git push

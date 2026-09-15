@@ -1,0 +1,1365 @@
+{
+  "source": "https://www.yugioh-card.com/lat-am/limited/list_2026-05-18/",
+  "effective_date": "18 de mayo de 2026",
+  "updated_date": "11/05/2026",
+  "content_hash": "939f902005cd7f3177d19287276e4c8730bbe0c27457c4d736b594759102e8a6",
+  "checked_at_utc": "2026-09-15T22:13:46+00:00",
+  "cards": [
+    {
+      "name": "\"A CASE FOR K9\"",
+      "status": "Limited",
+      "type": "Spell",
+      "remarks": ""
+    },
+    {
+      "name": "ABYSS DWELLER",
+      "status": "Forbidden",
+      "type": "Monster/Xyz",
+      "remarks": ""
+    },
+    {
+      "name": "AGIDO THE ANCIENT SENTINEL",
+      "status": "Forbidden",
+      "type": "Monster/Effect",
+      "remarks": ""
+    },
+    {
+      "name": "AME NO HABAKIRI NO MITSURUGI",
+      "status": "Limited",
+      "type": "Monster/Ritual",
+      "remarks": ""
+    },
+    {
+      "name": "ANTI-SPELL FRAGRANCE",
+      "status": "Limited",
+      "type": "Trap",
+      "remarks": ""
+    },
+    {
+      "name": "APOLLOUSA, BOW OF THE GODDESS",
+      "status": "Forbidden",
+      "type": "Monster/Link",
+      "remarks": ""
+    },
+    {
+      "name": "APPOINTER OF THE RED LOTUS",
+      "status": "Forbidden",
+      "type": "Trap",
+      "remarks": ""
+    },
+    {
+      "name": "ARCHNEMESES PROTOS",
+      "status": "Forbidden",
+      "type": "Monster/Effect",
+      "remarks": ""
+    },
+    {
+      "name": "ARTIFACT MJOLLNIR",
+      "status": "Forbidden",
+      "type": "Monster/Effect",
+      "remarks": ""
+    },
+    {
+      "name": "ARTIFACT SCYTHE",
+      "status": "Forbidden",
+      "type": "Monster/Effect",
+      "remarks": ""
+    },
+    {
+      "name": "ASTROGRAPH SORCERER",
+      "status": "Limited",
+      "type": "Monster/Effect",
+      "remarks": ""
+    },
+    {
+      "name": "BAHAMUT SHARK",
+      "status": "Forbidden",
+      "type": "Monster/Xyz",
+      "remarks": ""
+    },
+    {
+      "name": "BARONNE DE FLEUR",
+      "status": "Forbidden",
+      "type": "Monster/Synchro",
+      "remarks": ""
+    },
+    {
+      "name": "BARRIER STATUE OF THE DROUGHT",
+      "status": "Forbidden",
+      "type": "Monster/Effect",
+      "remarks": ""
+    },
+    {
+      "name": "BARRIER STATUE OF THE INFERNO",
+      "status": "Forbidden",
+      "type": "Monster/Effect",
+      "remarks": ""
+    },
+    {
+      "name": "BARRIER STATUE OF THE STORMWINDS",
+      "status": "Forbidden",
+      "type": "Monster/Effect",
+      "remarks": ""
+    },
+    {
+      "name": "BARRIER STATUE OF THE TORRENT",
+      "status": "Forbidden",
+      "type": "Monster/Effect",
+      "remarks": ""
+    },
+    {
+      "name": "BEATRICE, LADY OF THE ETERNAL",
+      "status": "Forbidden",
+      "type": "Monster/Xyz",
+      "remarks": ""
+    },
+    {
+      "name": "BLACKWING – GOFU THE VAGUE SHADOW",
+      "status": "Forbidden",
+      "type": "Monster/Effect",
+      "remarks": ""
+    },
+    {
+      "name": "BLOCK DRAGON",
+      "status": "Forbidden",
+      "type": "Monster/Effect",
+      "remarks": ""
+    },
+    {
+      "name": "BONFIRE",
+      "status": "Limited",
+      "type": "Spell",
+      "remarks": ""
+    },
+    {
+      "name": "BORRELOAD SAVAGE DRAGON",
+      "status": "Forbidden",
+      "type": "Monster/Synchro",
+      "remarks": ""
+    },
+    {
+      "name": "BRANDED EXPULSION",
+      "status": "Forbidden",
+      "type": "Trap",
+      "remarks": ""
+    },
+    {
+      "name": "BRANDED FUSION",
+      "status": "Limited",
+      "type": "Spell",
+      "remarks": "Was Semi-Limited"
+    },
+    {
+      "name": "BRILLIANT FUSION",
+      "status": "Limited",
+      "type": "Spell",
+      "remarks": ""
+    },
+    {
+      "name": "BUTTERFLY DAGGER – ELMA",
+      "status": "Forbidden",
+      "type": "Spell",
+      "remarks": ""
+    },
+    {
+      "name": "BYSTIAL DRUISWURM",
+      "status": "Limited",
+      "type": "Monster/Effect",
+      "remarks": ""
+    },
+    {
+      "name": "BYSTIAL MAGNAMHUT",
+      "status": "Limited",
+      "type": "Monster/Effect",
+      "remarks": ""
+    },
+    {
+      "name": "CALLED BY THE GRAVE",
+      "status": "Limited",
+      "type": "Spell",
+      "remarks": ""
+    },
+    {
+      "name": "CARD DESTRUCTION",
+      "status": "Limited",
+      "type": "Spell",
+      "remarks": ""
+    },
+    {
+      "name": "CARD OF DEMISE",
+      "status": "Limited",
+      "type": "Spell",
+      "remarks": ""
+    },
+    {
+      "name": "CARD OF SAFE RETURN",
+      "status": "Forbidden",
+      "type": "Spell",
+      "remarks": ""
+    },
+    {
+      "name": "CHAIN STRIKE",
+      "status": "Limited",
+      "type": "Spell",
+      "remarks": ""
+    },
+    {
+      "name": "CHAOS RULER, THE CHAOTIC MAGICAL DRAGON",
+      "status": "Forbidden",
+      "type": "Monster/Synchro",
+      "remarks": ""
+    },
+    {
+      "name": "CHAOS SPACE",
+      "status": "Limited",
+      "type": "Spell",
+      "remarks": ""
+    },
+    {
+      "name": "CHICKEN GAME",
+      "status": "Limited",
+      "type": "Spell",
+      "remarks": ""
+    },
+    {
+      "name": "COLD WAVE",
+      "status": "Forbidden",
+      "type": "Spell",
+      "remarks": ""
+    },
+    {
+      "name": "CONFISCATION",
+      "status": "Forbidden",
+      "type": "Spell",
+      "remarks": ""
+    },
+    {
+      "name": "CROSSOUT DESIGNATOR",
+      "status": "Limited",
+      "type": "Spell",
+      "remarks": ""
+    },
+    {
+      "name": "CRYSTRON HALQIFIBRAX",
+      "status": "Forbidden",
+      "type": "Monster/Link",
+      "remarks": ""
+    },
+    {
+      "name": "CUPSY★YUMMY WAY",
+      "status": "Limited",
+      "type": "Monster/Synchro",
+      "remarks": "New"
+    },
+    {
+      "name": "CUPSY☆YUMMY",
+      "status": "Limited",
+      "type": "Monster/Effect",
+      "remarks": "New"
+    },
+    {
+      "name": "CURIOUS, THE LIGHTSWORN DOMINION",
+      "status": "Forbidden",
+      "type": "Monster/Link",
+      "remarks": ""
+    },
+    {
+      "name": "CXYZ GIMMICK PUPPET FANATIX MACHINIX",
+      "status": "Forbidden",
+      "type": "Monster/Xyz",
+      "remarks": "New"
+    },
+    {
+      "name": "CYBER-STEIN",
+      "status": "Forbidden",
+      "type": "Monster/Effect",
+      "remarks": ""
+    },
+    {
+      "name": "DAIGUSTO EMERAL",
+      "status": "Limited",
+      "type": "Monster/Xyz",
+      "remarks": ""
+    },
+    {
+      "name": "DANDYLION",
+      "status": "Forbidden",
+      "type": "Monster/Effect",
+      "remarks": ""
+    },
+    {
+      "name": "DELINQUENT DUO",
+      "status": "Forbidden",
+      "type": "Spell",
+      "remarks": ""
+    },
+    {
+      "name": "DIMENSION FUSION",
+      "status": "Forbidden",
+      "type": "Spell",
+      "remarks": ""
+    },
+    {
+      "name": "DIMENSION SHIFTER",
+      "status": "Limited",
+      "type": "Monster/Effect",
+      "remarks": ""
+    },
+    {
+      "name": "DIMENSIONAL BARRIER",
+      "status": "Forbidden",
+      "type": "Trap",
+      "remarks": ""
+    },
+    {
+      "name": "DIVINE WIND OF MIST VALLEY",
+      "status": "Limited",
+      "type": "Spell",
+      "remarks": ""
+    },
+    {
+      "name": "DJINN RELEASER OF RITUALS",
+      "status": "Forbidden",
+      "type": "Monster/Effect",
+      "remarks": ""
+    },
+    {
+      "name": "DRACOTAIL ARTHALION",
+      "status": "Semi-Limited",
+      "type": "Monster/Fusion",
+      "remarks": "New"
+    },
+    {
+      "name": "DRACOTAIL LUKIAS",
+      "status": "Semi-Limited",
+      "type": "Monster/Effect",
+      "remarks": "New"
+    },
+    {
+      "name": "DRACOTAIL MULULU",
+      "status": "Limited",
+      "type": "Monster/Effect",
+      "remarks": ""
+    },
+    {
+      "name": "DROLL & LOCK BIRD",
+      "status": "Semi-Limited",
+      "type": "Monster/Effect",
+      "remarks": ""
+    },
+    {
+      "name": "ECLIPSE WYVERN",
+      "status": "Forbidden",
+      "type": "Monster/Effect",
+      "remarks": ""
+    },
+    {
+      "name": "ELDER ENTITY NORDEN",
+      "status": "Forbidden",
+      "type": "Monster/Fusion",
+      "remarks": ""
+    },
+    {
+      "name": "EVILSWARM OUROBOROS",
+      "status": "Forbidden",
+      "type": "Monster/Xyz",
+      "remarks": ""
+    },
+    {
+      "name": "EXODIA THE FORBIDDEN ONE",
+      "status": "Limited",
+      "type": "Monster/Effect",
+      "remarks": ""
+    },
+    {
+      "name": "EXT RYZEAL",
+      "status": "Limited",
+      "type": "Monster/Effect",
+      "remarks": ""
+    },
+    {
+      "name": "FAIRY TAIL – SNOW",
+      "status": "Limited",
+      "type": "Monster/Effect",
+      "remarks": "Was Forbidden"
+    },
+    {
+      "name": "FIBER JAR",
+      "status": "Forbidden",
+      "type": "Monster/Effect",
+      "remarks": ""
+    },
+    {
+      "name": "FIENDSMITH’S LACRIMA",
+      "status": "Limited",
+      "type": "Monster/Fusion",
+      "remarks": ""
+    },
+    {
+      "name": "FINAL COUNTDOWN",
+      "status": "Limited",
+      "type": "Spell",
+      "remarks": ""
+    },
+    {
+      "name": "FISHBORG BLASTER",
+      "status": "Forbidden",
+      "type": "Monster/Effect",
+      "remarks": ""
+    },
+    {
+      "name": "FOOLISH BURIAL",
+      "status": "Limited",
+      "type": "Spell",
+      "remarks": ""
+    },
+    {
+      "name": "FOSSIL DYNA PACHYCEPHALO",
+      "status": "Forbidden",
+      "type": "Monster/Effect",
+      "remarks": ""
+    },
+    {
+      "name": "GATEWAY OF THE SIX",
+      "status": "Limited",
+      "type": "Spell",
+      "remarks": ""
+    },
+    {
+      "name": "GEM-KNIGHT MASTER DIAMOND",
+      "status": "Limited",
+      "type": "Monster/Fusion",
+      "remarks": ""
+    },
+    {
+      "name": "GIANT TRUNADE",
+      "status": "Forbidden",
+      "type": "Spell",
+      "remarks": ""
+    },
+    {
+      "name": "GIMMICK PUPPET NIGHTMARE",
+      "status": "Forbidden",
+      "type": "Monster/Effect",
+      "remarks": ""
+    },
+    {
+      "name": "GOLD SARCOPHAGUS",
+      "status": "Limited",
+      "type": "Spell",
+      "remarks": ""
+    },
+    {
+      "name": "GOZEN MATCH",
+      "status": "Limited",
+      "type": "Trap",
+      "remarks": ""
+    },
+    {
+      "name": "GRACEFUL CHARITY",
+      "status": "Forbidden",
+      "type": "Spell",
+      "remarks": ""
+    },
+    {
+      "name": "GRINDER GOLEM",
+      "status": "Forbidden",
+      "type": "Monster/Effect",
+      "remarks": ""
+    },
+    {
+      "name": "GUARDRAGON AGARPAIN",
+      "status": "Forbidden",
+      "type": "Monster/Link",
+      "remarks": ""
+    },
+    {
+      "name": "GUARDRAGON ELPY",
+      "status": "Forbidden",
+      "type": "Monster/Link",
+      "remarks": ""
+    },
+    {
+      "name": "HARPIE’S FEATHER DUSTER",
+      "status": "Limited",
+      "type": "Spell",
+      "remarks": ""
+    },
+    {
+      "name": "HARPIE’S FEATHER STORM",
+      "status": "Forbidden",
+      "type": "Trap",
+      "remarks": ""
+    },
+    {
+      "name": "HEAVY STORM",
+      "status": "Forbidden",
+      "type": "Spell",
+      "remarks": ""
+    },
+    {
+      "name": "HEAVYMETALFOES ELECTRUMITE",
+      "status": "Forbidden",
+      "type": "Monster/Link",
+      "remarks": ""
+    },
+    {
+      "name": "HERALD OF THE ARC LIGHT",
+      "status": "Forbidden",
+      "type": "Monster/Synchro",
+      "remarks": ""
+    },
+    {
+      "name": "HOT RED DRAGON ARCHFIEND KING CALAMITY",
+      "status": "Forbidden",
+      "type": "Monster/Synchro",
+      "remarks": ""
+    },
+    {
+      "name": "ICE RYZEAL",
+      "status": "Semi-Limited",
+      "type": "Monster/Effect",
+      "remarks": ""
+    },
+    {
+      "name": "IMPERIAL ORDER",
+      "status": "Forbidden",
+      "type": "Trap",
+      "remarks": ""
+    },
+    {
+      "name": "INFERNITY LAUNCHER",
+      "status": "Limited",
+      "type": "Spell",
+      "remarks": ""
+    },
+    {
+      "name": "INSTANT FUSION",
+      "status": "Limited",
+      "type": "Spell",
+      "remarks": ""
+    },
+    {
+      "name": "INTO THE VOID",
+      "status": "Limited",
+      "type": "Spell",
+      "remarks": ""
+    },
+    {
+      "name": "ISOLDE, TWO TALES OF THE NOBLE KNIGHTS",
+      "status": "Forbidden",
+      "type": "Monster/Link",
+      "remarks": ""
+    },
+    {
+      "name": "JOWGEN THE SPIRITUALIST",
+      "status": "Forbidden",
+      "type": "Monster/Effect",
+      "remarks": ""
+    },
+    {
+      "name": "K9-04 NOROI",
+      "status": "Forbidden",
+      "type": "Monster/Effect",
+      "remarks": "New"
+    },
+    {
+      "name": "K9-66A JOKUL",
+      "status": "Limited",
+      "type": "Monster/Effect",
+      "remarks": ""
+    },
+    {
+      "name": "KAISER COLOSSEUM",
+      "status": "Forbidden",
+      "type": "Spell",
+      "remarks": ""
+    },
+    {
+      "name": "KASHTIRA ARISE-HEART",
+      "status": "Forbidden",
+      "type": "Monster/Xyz",
+      "remarks": ""
+    },
+    {
+      "name": "KELBEK THE ANCIENT VANGUARD",
+      "status": "Forbidden",
+      "type": "Monster/Effect",
+      "remarks": ""
+    },
+    {
+      "name": "KELDO THE SACRED PROTECTOR",
+      "status": "Limited",
+      "type": "Monster/Effect",
+      "remarks": ""
+    },
+    {
+      "name": "KETU DRACOTAIL",
+      "status": "Limited",
+      "type": "Spell",
+      "remarks": ""
+    },
+    {
+      "name": "KING OF THE FERAL IMPS",
+      "status": "Forbidden",
+      "type": "Monster/Xyz",
+      "remarks": ""
+    },
+    {
+      "name": "KNIGHTMARE GOBLIN",
+      "status": "Forbidden",
+      "type": "Monster/Link",
+      "remarks": ""
+    },
+    {
+      "name": "KNIGHTMARE GRYPHON",
+      "status": "Forbidden",
+      "type": "Monster/Link",
+      "remarks": ""
+    },
+    {
+      "name": "KNIGHTMARE MERMAID",
+      "status": "Forbidden",
+      "type": "Monster/Link",
+      "remarks": ""
+    },
+    {
+      "name": "LAST TURN",
+      "status": "Forbidden",
+      "type": "Trap",
+      "remarks": ""
+    },
+    {
+      "name": "LAST WILL",
+      "status": "Forbidden",
+      "type": "Spell",
+      "remarks": ""
+    },
+    {
+      "name": "LAVALVAL CHAIN",
+      "status": "Forbidden",
+      "type": "Monster/Xyz",
+      "remarks": ""
+    },
+    {
+      "name": "LEFT ARM OF THE FORBIDDEN ONE",
+      "status": "Limited",
+      "type": "Monster",
+      "remarks": ""
+    },
+    {
+      "name": "LEFT LEG OF THE FORBIDDEN ONE",
+      "status": "Limited",
+      "type": "Monster",
+      "remarks": ""
+    },
+    {
+      "name": "LEVEL EATER",
+      "status": "Forbidden",
+      "type": "Monster/Effect",
+      "remarks": ""
+    },
+    {
+      "name": "LINK DECODER",
+      "status": "Forbidden",
+      "type": "Monster/Link",
+      "remarks": ""
+    },
+    {
+      "name": "LINKROSS",
+      "status": "Forbidden",
+      "type": "Monster/Link",
+      "remarks": ""
+    },
+    {
+      "name": "LINKURIBOH",
+      "status": "Limited",
+      "type": "Monster/Link",
+      "remarks": ""
+    },
+    {
+      "name": "M-X-SABER INVOKER",
+      "status": "Forbidden",
+      "type": "Monster/Xyz",
+      "remarks": ""
+    },
+    {
+      "name": "MAGICAL EXPLOSION",
+      "status": "Limited",
+      "type": "Trap",
+      "remarks": ""
+    },
+    {
+      "name": "MAGICAL MID-BREAKER FIELD",
+      "status": "Limited",
+      "type": "Spell",
+      "remarks": ""
+    },
+    {
+      "name": "MAGICAL SCIENTIST",
+      "status": "Forbidden",
+      "type": "Monster/Effect",
+      "remarks": ""
+    },
+    {
+      "name": "MALISS <P> DORMOUSE",
+      "status": "Limited",
+      "type": "Monster/Effect",
+      "remarks": ""
+    },
+    {
+      "name": "MALISS <P> WHITE RABBIT",
+      "status": "Limited",
+      "type": "Monster/Effect",
+      "remarks": "Was Semi-Limited"
+    },
+    {
+      "name": "MALISS <Q> WHITE BINDER",
+      "status": "Forbidden",
+      "type": "Monster/Link",
+      "remarks": ""
+    },
+    {
+      "name": "MALISS IN UNDERGROUND",
+      "status": "Semi-Limited",
+      "type": "Spell",
+      "remarks": ""
+    },
+    {
+      "name": "MASS DRIVER",
+      "status": "Forbidden",
+      "type": "Spell",
+      "remarks": ""
+    },
+    {
+      "name": "MATHMECH CIRCULAR",
+      "status": "Limited",
+      "type": "Monster/Effect",
+      "remarks": ""
+    },
+    {
+      "name": "MAXX \"C\"",
+      "status": "Forbidden",
+      "type": "Monster/Effect",
+      "remarks": ""
+    },
+    {
+      "name": "MECHA PHANTOM BEAST AURORADON",
+      "status": "Forbidden",
+      "type": "Monster/Link",
+      "remarks": ""
+    },
+    {
+      "name": "METAMORPHOSIS",
+      "status": "Limited",
+      "type": "Spell",
+      "remarks": "Was Forbidden"
+    },
+    {
+      "name": "MIND MASTER",
+      "status": "Forbidden",
+      "type": "Monster/Effect",
+      "remarks": ""
+    },
+    {
+      "name": "MIRAGE OF NIGHTMARE",
+      "status": "Forbidden",
+      "type": "Spell",
+      "remarks": ""
+    },
+    {
+      "name": "MISCELLANEOUSAURUS",
+      "status": "Limited",
+      "type": "Monster/Effect",
+      "remarks": ""
+    },
+    {
+      "name": "MONSTER GATE",
+      "status": "Limited",
+      "type": "Spell",
+      "remarks": ""
+    },
+    {
+      "name": "MONSTER REBORN",
+      "status": "Limited",
+      "type": "Spell",
+      "remarks": ""
+    },
+    {
+      "name": "MOON OF THE CLOSED HEAVEN",
+      "status": "Forbidden",
+      "type": "Monster/Link",
+      "remarks": ""
+    },
+    {
+      "name": "MUDORA THE SWORD ORACLE",
+      "status": "Limited",
+      "type": "Monster/Effect",
+      "remarks": ""
+    },
+    {
+      "name": "MYSTIC MINE",
+      "status": "Forbidden",
+      "type": "Spell",
+      "remarks": ""
+    },
+    {
+      "name": "NATURIA ROSEWHIP",
+      "status": "Forbidden",
+      "type": "Monster/Effect",
+      "remarks": "New"
+    },
+    {
+      "name": "NATURIA SACRED TREE",
+      "status": "Limited",
+      "type": "Trap",
+      "remarks": ""
+    },
+    {
+      "name": "NUMBER 16: SHOCK MASTER",
+      "status": "Forbidden",
+      "type": "Monster/Xyz",
+      "remarks": ""
+    },
+    {
+      "name": "NUMBER 40: GIMMICK PUPPET OF STRINGS",
+      "status": "Limited",
+      "type": "Monster/Xyz",
+      "remarks": ""
+    },
+    {
+      "name": "NUMBER 42: GALAXY TOMAHAWK",
+      "status": "Forbidden",
+      "type": "Monster/Xyz",
+      "remarks": ""
+    },
+    {
+      "name": "NUMBER 67: PAIR-A-DICE SMASHER",
+      "status": "Forbidden",
+      "type": "Monster/Xyz",
+      "remarks": ""
+    },
+    {
+      "name": "NUMBER 86: HEROIC CHAMPION – RHONGOMYNIAD",
+      "status": "Forbidden",
+      "type": "Monster/Xyz",
+      "remarks": ""
+    },
+    {
+      "name": "NUMBER 89: DIABLOSIS THE MIND HACKER",
+      "status": "Forbidden",
+      "type": "Monster/Xyz",
+      "remarks": ""
+    },
+    {
+      "name": "NUMBER 95: GALAXY-EYES DARK MATTER DRAGON",
+      "status": "Forbidden",
+      "type": "Monster/Xyz",
+      "remarks": ""
+    },
+    {
+      "name": "NUMBER C40: GIMMICK PUPPET OF DARK STRINGS",
+      "status": "Limited",
+      "type": "Monster/Xyz",
+      "remarks": ""
+    },
+    {
+      "name": "NUMBER S0: UTOPIC ZEXAL",
+      "status": "Forbidden",
+      "type": "Monster/Xyz",
+      "remarks": ""
+    },
+    {
+      "name": "OBEDIENCE SCHOOLED",
+      "status": "Limited",
+      "type": "Spell",
+      "remarks": ""
+    },
+    {
+      "name": "ONE DAY OF PEACE",
+      "status": "Limited",
+      "type": "Spell",
+      "remarks": ""
+    },
+    {
+      "name": "ONE FOR ONE",
+      "status": "Limited",
+      "type": "Spell",
+      "remarks": ""
+    },
+    {
+      "name": "ORIGINAL SINFUL SPOILS – SNAKE-EYE",
+      "status": "Forbidden",
+      "type": "Spell",
+      "remarks": ""
+    },
+    {
+      "name": "OUTER ENTITY AZATHOT",
+      "status": "Forbidden",
+      "type": "Monster/Xyz",
+      "remarks": ""
+    },
+    {
+      "name": "PAINFUL CHOICE",
+      "status": "Forbidden",
+      "type": "Spell",
+      "remarks": ""
+    },
+    {
+      "name": "PHANTOM OF YUBEL",
+      "status": "Limited",
+      "type": "Monster/Fusion",
+      "remarks": ""
+    },
+    {
+      "name": "PHOENIXIAN CLUSTER AMARYLLIS",
+      "status": "Forbidden",
+      "type": "Monster/Effect",
+      "remarks": ""
+    },
+    {
+      "name": "POT OF GREED",
+      "status": "Forbidden",
+      "type": "Spell",
+      "remarks": ""
+    },
+    {
+      "name": "POT OF PROSPERITY",
+      "status": "Limited",
+      "type": "Spell",
+      "remarks": ""
+    },
+    {
+      "name": "PRANK-KIDS MEOW-MEOW-MU",
+      "status": "Forbidden",
+      "type": "Monster/Link",
+      "remarks": ""
+    },
+    {
+      "name": "PREDAPLANT VERTE ANACONDA",
+      "status": "Forbidden",
+      "type": "Monster/Link",
+      "remarks": ""
+    },
+    {
+      "name": "PREMATURE BURIAL",
+      "status": "Limited",
+      "type": "Spell",
+      "remarks": "Was Forbidden"
+    },
+    {
+      "name": "PSY-FRAMEGEAR GAMMA",
+      "status": "Limited",
+      "type": "Monster/Effect",
+      "remarks": ""
+    },
+    {
+      "name": "PSY-FRAMELORD OMEGA",
+      "status": "Limited",
+      "type": "Monster/Synchro",
+      "remarks": ""
+    },
+    {
+      "name": "PURRELY DELICIOUS MEMORY",
+      "status": "Semi-Limited",
+      "type": "Spell",
+      "remarks": ""
+    },
+    {
+      "name": "PURRELY SLEEPY MEMORY",
+      "status": "Semi-Limited",
+      "type": "Spell",
+      "remarks": ""
+    },
+    {
+      "name": "RADIANT TYPHOON CHANT",
+      "status": "Limited",
+      "type": "Spell",
+      "remarks": "New"
+    },
+    {
+      "name": "RAHU DRACOTAIL",
+      "status": "Limited",
+      "type": "Spell",
+      "remarks": "New"
+    },
+    {
+      "name": "REASONING",
+      "status": "Limited",
+      "type": "Spell",
+      "remarks": ""
+    },
+    {
+      "name": "RED REBOOT",
+      "status": "Forbidden",
+      "type": "Trap",
+      "remarks": ""
+    },
+    {
+      "name": "REINFORCEMENT OF THE ARMY",
+      "status": "Limited",
+      "type": "Spell",
+      "remarks": ""
+    },
+    {
+      "name": "RETURN FROM THE DIFFERENT DIMENSION",
+      "status": "Forbidden",
+      "type": "Trap",
+      "remarks": ""
+    },
+    {
+      "name": "RIGHT ARM OF THE FORBIDDEN ONE",
+      "status": "Limited",
+      "type": "Monster",
+      "remarks": ""
+    },
+    {
+      "name": "RIGHT LEG OF THE FORBIDDEN ONE",
+      "status": "Limited",
+      "type": "Monster",
+      "remarks": ""
+    },
+    {
+      "name": "RIVALRY OF WARLORDS",
+      "status": "Limited",
+      "type": "Trap",
+      "remarks": ""
+    },
+    {
+      "name": "RONINTOADIN",
+      "status": "Forbidden",
+      "type": "Monster/Effect",
+      "remarks": ""
+    },
+    {
+      "name": "ROYAL OPPRESSION",
+      "status": "Forbidden",
+      "type": "Trap",
+      "remarks": ""
+    },
+    {
+      "name": "RUNICK FOUNTAIN",
+      "status": "Semi-Limited",
+      "type": "Spell",
+      "remarks": ""
+    },
+    {
+      "name": "RYZEAL DETONATOR",
+      "status": "Limited",
+      "type": "Monster/Xyz",
+      "remarks": ""
+    },
+    {
+      "name": "SANGEN KAIMEN",
+      "status": "Limited",
+      "type": "Spell",
+      "remarks": ""
+    },
+    {
+      "name": "SANGEN SUMMONING",
+      "status": "Limited",
+      "type": "Spell",
+      "remarks": ""
+    },
+    {
+      "name": "SEKKA’S LIGHT",
+      "status": "Limited",
+      "type": "Spell",
+      "remarks": ""
+    },
+    {
+      "name": "SELF-DESTRUCT BUTTON",
+      "status": "Forbidden",
+      "type": "Trap",
+      "remarks": ""
+    },
+    {
+      "name": "SET ROTATION",
+      "status": "Limited",
+      "type": "Spell",
+      "remarks": ""
+    },
+    {
+      "name": "SIMORGH, BIRD OF SOVEREIGNTY",
+      "status": "Forbidden",
+      "type": "Monster/Link",
+      "remarks": ""
+    },
+    {
+      "name": "SIXTH SENSE",
+      "status": "Forbidden",
+      "type": "Trap",
+      "remarks": ""
+    },
+    {
+      "name": "SKILL DRAIN",
+      "status": "Limited",
+      "type": "Trap",
+      "remarks": ""
+    },
+    {
+      "name": "SKY STRIKER MECHA – HORNET DRONES",
+      "status": "Limited",
+      "type": "Spell",
+      "remarks": ""
+    },
+    {
+      "name": "SLASH DRAW",
+      "status": "Limited",
+      "type": "Spell",
+      "remarks": ""
+    },
+    {
+      "name": "SMOKE GRENADE OF THE THIEF",
+      "status": "Forbidden",
+      "type": "Spell",
+      "remarks": ""
+    },
+    {
+      "name": "SOLEMN JUDGMENT",
+      "status": "Limited",
+      "type": "Trap",
+      "remarks": ""
+    },
+    {
+      "name": "SOUL CHARGE",
+      "status": "Forbidden",
+      "type": "Spell",
+      "remarks": ""
+    },
+    {
+      "name": "SPLASH MAGE",
+      "status": "Forbidden",
+      "type": "Monster/Link",
+      "remarks": ""
+    },
+    {
+      "name": "SPRIGHT ELF",
+      "status": "Forbidden",
+      "type": "Monster/Link",
+      "remarks": ""
+    },
+    {
+      "name": "SPYRAL MASTER PLAN",
+      "status": "Forbidden",
+      "type": "Monster/Effect",
+      "remarks": ""
+    },
+    {
+      "name": "STRIKER DRAGON",
+      "status": "Limited",
+      "type": "Monster/Link",
+      "remarks": ""
+    },
+    {
+      "name": "SUBSTITOAD",
+      "status": "Limited",
+      "type": "Monster/Effect",
+      "remarks": ""
+    },
+    {
+      "name": "SUMMON LIMIT",
+      "status": "Forbidden",
+      "type": "Trap",
+      "remarks": ""
+    },
+    {
+      "name": "SUMMON SORCERESS",
+      "status": "Limited",
+      "type": "Monster/Link",
+      "remarks": ""
+    },
+    {
+      "name": "SUNAVALON DRYAS",
+      "status": "Limited",
+      "type": "Monster/Link",
+      "remarks": ""
+    },
+    {
+      "name": "SUNVINE HEALER",
+      "status": "Limited",
+      "type": "Monster/Link",
+      "remarks": ""
+    },
+    {
+      "name": "SUPERHEAVY SAMURAI SCARECROW",
+      "status": "Forbidden",
+      "type": "Monster/Link",
+      "remarks": ""
+    },
+    {
+      "name": "SUPREME KING DRAGON STARVING VENOM",
+      "status": "Forbidden",
+      "type": "Monster/Fusion",
+      "remarks": ""
+    },
+    {
+      "name": "SWORD RYZEAL",
+      "status": "Semi-Limited",
+      "type": "Monster/Effect",
+      "remarks": ""
+    },
+    {
+      "name": "SYNCHRO OVERTAKE",
+      "status": "Limited",
+      "type": "Spell",
+      "remarks": "New"
+    },
+    {
+      "name": "T.G. HYPER LIBRARIAN",
+      "status": "Limited",
+      "type": "Monster/Synchro",
+      "remarks": ""
+    },
+    {
+      "name": "TEARLAMENTS HAVNIS",
+      "status": "Limited",
+      "type": "Monster/Effect",
+      "remarks": ""
+    },
+    {
+      "name": "TEARLAMENTS KITKALLOS",
+      "status": "Forbidden",
+      "type": "Monster/Fusion",
+      "remarks": ""
+    },
+    {
+      "name": "TEARLAMENTS MERRLI",
+      "status": "Limited",
+      "type": "Monster/Effect",
+      "remarks": ""
+    },
+    {
+      "name": "TEARLAMENTS SCHEIREN",
+      "status": "Limited",
+      "type": "Monster/Effect",
+      "remarks": ""
+    },
+    {
+      "name": "TEMPEST MAGICIAN",
+      "status": "Forbidden",
+      "type": "Monster/Synchro",
+      "remarks": ""
+    },
+    {
+      "name": "TENPAI DRAGON CHUNDRA",
+      "status": "Limited",
+      "type": "Monster/Effect",
+      "remarks": ""
+    },
+    {
+      "name": "TERRAFORMING",
+      "status": "Limited",
+      "type": "Spell",
+      "remarks": ""
+    },
+    {
+      "name": "THAT GRASS LOOKS GREENER",
+      "status": "Limited",
+      "type": "Spell",
+      "remarks": ""
+    },
+    {
+      "name": "THE FORCEFUL SENTRY",
+      "status": "Forbidden",
+      "type": "Spell",
+      "remarks": ""
+    },
+    {
+      "name": "THE TYRANT NEPTUNE",
+      "status": "Forbidden",
+      "type": "Monster/Effect",
+      "remarks": ""
+    },
+    {
+      "name": "THERE CAN BE ONLY ONE",
+      "status": "Limited",
+      "type": "Trap",
+      "remarks": ""
+    },
+    {
+      "name": "TOPOLOGIC GUMBLAR DRAGON",
+      "status": "Forbidden",
+      "type": "Monster/Link",
+      "remarks": ""
+    },
+    {
+      "name": "TRAP DUSTSHOOT",
+      "status": "Forbidden",
+      "type": "Trap",
+      "remarks": ""
+    },
+    {
+      "name": "TRIPLE TACTICS TALENT",
+      "status": "Limited",
+      "type": "Spell",
+      "remarks": ""
+    },
+    {
+      "name": "TRUE KING OF ALL CALAMITIES",
+      "status": "Forbidden",
+      "type": "Monster/Xyz",
+      "remarks": ""
+    },
+    {
+      "name": "ULTIMATE OFFERING",
+      "status": "Forbidden",
+      "type": "Trap",
+      "remarks": ""
+    },
+    {
+      "name": "UNCHAINED SOUL OF SHARVARA",
+      "status": "Semi-Limited",
+      "type": "Monster/Effect",
+      "remarks": ""
+    },
+    {
+      "name": "UNION CARRIER",
+      "status": "Forbidden",
+      "type": "Monster/Link",
+      "remarks": ""
+    },
+    {
+      "name": "VANITY’S EMPTINESS",
+      "status": "Forbidden",
+      "type": "Trap",
+      "remarks": ""
+    },
+    {
+      "name": "VANQUISH SOUL HOLLIE SUE",
+      "status": "Limited",
+      "type": "Monster/Effect",
+      "remarks": ""
+    },
+    {
+      "name": "VICTORY DRAGON",
+      "status": "Forbidden",
+      "type": "Monster/Effect",
+      "remarks": ""
+    },
+    {
+      "name": "WIND-UP CARRIER ZENMAITY",
+      "status": "Forbidden",
+      "type": "Monster/Xyz",
+      "remarks": ""
+    },
+    {
+      "name": "YUMMY★SNATCHY",
+      "status": "Limited",
+      "type": "Monster/Link",
+      "remarks": ""
+    },
+    {
+      "name": "ZOODIAC BROADBULL",
+      "status": "Forbidden",
+      "type": "Monster/Xyz",
+      "remarks": ""
+    },
+    {
+      "name": "ZOODIAC RATPIER",
+      "status": "Limited",
+      "type": "Monster/Effect",
+      "remarks": ""
+    }
+  ]
+}
